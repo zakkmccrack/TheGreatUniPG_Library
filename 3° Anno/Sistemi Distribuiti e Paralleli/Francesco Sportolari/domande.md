@@ -1,0 +1,21 @@
+# Alcune domande possibili
+
+- cosa si intende per trasparenza di accesso
+- Struttura del JWT (Header.Signature.Payload)
+- Quali sono le 3 scalabilità (amministrativa, geografica, delle dimensioni)
+- Nel message-oriented-middleware cosa si intende per comunicazione persistente
+- Cosa si intende per risoluzione ricorsiva nel DNS
+- Come sono i voluimi in docker (Permanenti, teomporanei, ...)
+- Jwt si può usare senza firma?
+- Vantaggio di usare i thread many-to-many (o many-to-one)
+- Se ho 2 nodi, con quanti [...] (risposta 2k+1 o 3k+1 non ricordo)
+- Differenza tra disponibilità e affidabilità
+- Svantaggio orologi di Lamport vs Orologi Vector
+- Come espando un sistema distribuito?
+- Vantaggio di usare i broker (complessità da O(n^2) a o(N)) invece che gli adapter
+- Cosa si intende per discoppiamento referenziale
+- Differenza tra indirizzo ed identificatore
+- Vantaggio uso TTL (time to live) nel flooding
+- cosa sono i death certificates
+- Vantaggio di usare l'anty-entropy
+- Perchè gli orologi di Lamport sono utili se non indicano l'ora esatta del mondo reale?
